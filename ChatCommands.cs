@@ -1,12 +1,8 @@
-﻿using Landfall.Network;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Landfall.Network;
 using UnityEngine;
-using Epic.OnlineServices.AntiCheatCommon;
 using Newtonsoft.Json;
 
 namespace CitrusLib
